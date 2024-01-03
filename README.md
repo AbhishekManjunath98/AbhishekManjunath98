@@ -1,8 +1,6 @@
 # Hi there 👋 
 
 
-**Visit my [portfolio](abhishekm.com)**</br>
-**Visit my [blog](blog.abhishekm.com)**</br>
 ----
 - 🔭 I’m currently working on **Flutter**
 
